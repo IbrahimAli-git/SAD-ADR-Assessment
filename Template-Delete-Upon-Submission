@@ -1,22 +1,17 @@
-# Lightweight ADR
+Decision record template by Michael Nygard
+This is the template in Documenting architecture decisions - Michael Nygard. You can use adr-tools for managing the ADR files.
 
-# Title
-Use GitHub for this task and use lightweight ADR as a decision-making template
+In each ADR file, write these sections:
 
-## Status
-Accepted
+Title
+Status
+What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 
-## Context
-We need to use a decision-recording template for this task, we have multiple options:
-* Lightweight ADR
-* MADR
-Need to take how much time we have into consideration
-We need a tool to be able to collaborate with class mates on this task, therefore need a tool for this.
+Context
+What is the issue that we're seeing that is motivating this decision or change?
 
-## Decision
-Use lightweight ADR
-We've decided to set up a GitHub repo
+Decision
+What is the change that we're proposing and/or doing?
 
-## Consequences
-Can create decision record quickly
-All collaborators can now contribute to this task
+Consequences
+What becomes easier or more difficult to do because of this change?
