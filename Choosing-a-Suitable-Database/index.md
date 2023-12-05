@@ -1,16 +1,23 @@
 # Lightweight ADR
 
 # Title
-Use a Relational Database
+Implementation of data storage use a Relational Database
 
 ## Status
 Accepted
 
 ## Context
-I needed a database for storing and retrieving data efficiently. My options were split between non-relational databases and relational. My choice for a non-relational database was MongoDB, and for a relational was MySQL.
+During the planning stage of the project choosing a suitable database was imperative. I needed a database for storing and retrieving data efficiently. My options were split between non-relational databases and relational. My choice for a non-relational database was MongoDB, and for a relational was MySQL.
 
 ## Decision
-I decided to use a relational database. This is because relational databases are structured, ordered, and store data in an efficient manner,that is based on ACID principles. 
+I decided to use a relational database for implementing my backend.
+
+## Rationale
+My decision to design using a relational database was based on many reasons. From them:
+
+1. Relational Databases are ACID compliant which facilitates quick and efficient transactions.
+2. Relational databases use constraints which ensures data is stored in a structured and ordered manner which prevents data corruption.
+3. Relational databases such as MySQL are free to use and download.
 
 ## Consequences
-Data will be stored in tables with relationships between each.
+The use of a relational database will require the user to have knowledge of SQL. This may require learning.
