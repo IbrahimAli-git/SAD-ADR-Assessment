@@ -1,7 +1,7 @@
 # Lightweight ADR
 
 # Title
-Employing Figma as a design tool for creating my proof of concept.
+Employing Figma as a design tool for creating my proof of concept/prototype.
 
 ## Status
 Accepted.
@@ -19,7 +19,10 @@ I decided to use Figma as my wireframing tool for creating my proof of concept.
 
 ## Rationale
 This decision was based on a number of factors including:
-1. Pricing. Figma is free to use with limited features and 
+1. Pricing. Figma is free to use for all unlike other wireframing tools and even though this is limited for some users, students can gain access to the fool suite of tools simply by applying.
+2. Users have access to a large community of downloadable content which ease one's journey in creating a prototype.
+3. Figma is great for designing user interfaces which can include anything from static webpages to interactive websites with clickable icons.
+4. Figma enables a design to be created for any device (Web, Phone, Tablet, etc). 
 
 ## Consequences
-This will allow The main conseuqence of using
+The use of Figma will require some basic training before beginning designing the prototype. Specifically in the creation user interface components that Figma requires the user to create.
