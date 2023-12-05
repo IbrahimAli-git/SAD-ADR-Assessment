@@ -13,5 +13,4 @@ The second option is to demonstrate this proof of concept by using a wireframe. 
 I have chosen to develop a prototype as a wireframe, using wireframing tools such as Figma. I have chosen a wireframe as this will allow me to develop an application sufficiently to perform user evaluation. Wireframing tools allow for the creation of detailed frontend applications which allow for user interaction. 
 
 ## Consequences
-What becomes easier or more difficult to do because of this change?
 As a result of my decision, it will be easier to build my prototype and I will be able to do so in less time, freeing myself to focus on other aspects of the project. This will however make my user evaluation slightly deficient because of the deficiency in using a wireframe instead of building a full stack application.
