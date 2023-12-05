@@ -1,16 +1,25 @@
 # Lightweight ADR
 
 # Title
-Use Figma for creating a high fidelity wireframe.
+Employing Figma as a design tool for creating my proof of concept.
 
 ## Status
 Accepted.
 
 ## Context
-I needed a tool for creating a clickable wireframe that would act as a proof of concept.
+As a result of choosing to create a wireframe for my proof of concept, instead of developing a prototype application using code, I needed to choose a suitable design tool which would best support me. There are a number of different options available which I will list below which were available to me before choosing one. These included:
+
+1. Figma
+2. Adobe XD
+3. LucidChart
+4. MockFlow
 
 ## Decision
-I decided to use Figma because it is easy to use and free for students.
+I decided to use Figma as my wireframing tool for creating my proof of concept.
+
+## Rationale
+This decision was based on a number of factors including:
+1. Pricing. Figma is free to use with limited features and 
 
 ## Consequences
-Can create a high fidelity prototype.
+This will allow The main conseuqence of using
