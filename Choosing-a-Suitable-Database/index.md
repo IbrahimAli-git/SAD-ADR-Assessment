@@ -1,5 +1,3 @@
-# Lightweight ADR
-
 # Title
 Implementation of data storage use a Relational Database
 
