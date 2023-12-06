@@ -1,5 +1,3 @@
-# Lightweight ADR
-
 # Title
 Executing my diagrams using the draw.io diagramming tool.
 
