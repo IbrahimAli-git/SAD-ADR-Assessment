@@ -1,4 +1,3 @@
-# Lightweight ADR
 # Title
 Using Lightweight for my ADR template.
 ## Status
