@@ -1,5 +1,3 @@
-# Lightweight ADR
-
 # Title
 Employing Figma as a design tool for creating my proof of concept/prototype.
 
