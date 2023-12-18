@@ -5,7 +5,7 @@ Implementation of data storage use a Non-Relational NoSQL Database
 Accepted
 
 ## Context
-During the planning stage of the project choosing a suitable database was imperative. I needed a database for storing and retrieving data efficiently. I also needed to be able to set up the databse in a short period of time. My options were split between non-relational databases and relational. My choice for a non-relational database was MongoDB, and for a relational was MySQL.
+During the planning stage of the project choosing a suitable database was imperative. I needed a database for storing and retrieving data efficiently. I also needed to be able to set up the databse in a short period of time. My options were split between non-relational databases and relational. My choice for a non-relational database was MongoDB, and for a relational MySQL.
 
 ## Decision
 I decided to use a non-relational database for implementing my backend and specifically MongoDB.
