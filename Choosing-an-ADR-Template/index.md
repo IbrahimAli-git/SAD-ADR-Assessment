@@ -3,9 +3,9 @@ Using Lightweight for my ADR template.
 ## Status
 Accepted.
 ## Context
-I need to use a decision-recording template to record the decisions I am making throughout the completion of this project. This grant me a written record of my work which includes both the context and justification. Before beginning writing up any decisions I had made I was tasked with choosing a specific template. There are many options to choose from which include:
-* Lightweight ADR.
-* MADR.
+I need to use a decision-recording template to record the decisions I am making throughout the completion of this project. This grants me a written record of my work which includes both the context and justification. Before beginning writing up any decisions I had made I was tasked with choosing a specific template. There are many options to choose from which include:
+* Lightweight ADR
+* MADR
 * Business Case
 ## Decision
 To use lightweight ADR.
