@@ -1,5 +1,5 @@
 # Title
-Creating a prototype using a wireframing tool. 
+Choosing a wireframing tool. 
 # Status
 Accepted
  
