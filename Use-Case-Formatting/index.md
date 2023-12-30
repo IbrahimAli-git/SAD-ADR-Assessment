@@ -12,7 +12,7 @@ I needed to choose a format that would allow me to write out the use cases in a 
 •	University taught format.
 
 ## Decision
-I chose to use the university taught format as it was well written and effective.
+I chose to use the university taught format.
 
 ## Rationale
 • The main reason I chose to use the university taught format is that it is the format which is generally used in software development.   
