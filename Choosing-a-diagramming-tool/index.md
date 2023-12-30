@@ -16,6 +16,8 @@ I had many options to choose from including:
 -	Draw.io
 -	Google diagrams
 -	LucidChart
+-	StarUML
+-	Visual Paradigm
 ## Decision
 I decided to use draw.io as my diagramming tool.
 ## Rationale
