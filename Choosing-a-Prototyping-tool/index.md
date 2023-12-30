@@ -21,7 +21,7 @@ This decision was based on a number of factors including:
 2. Users have access to a large community of downloadable content which ease one's journey in creating a prototype.
 3. Figma is great for designing user interfaces which can include anything from static webpages to interactive websites with clickable icons.
 4. Figma enables a design to be created for any device (Web, Phone, Tablet, etc).
-5. I have already have some experience using Figma and have used it in team projects to build a prototype.
+5. I already have some experience using Figma and have used it in team projects to build a prototype.
 
 ## Consequences
 The use of Figma will require some basic training before beginning designing the prototype. Specifically in the creation of user interface components that Figma requires the user to create.
