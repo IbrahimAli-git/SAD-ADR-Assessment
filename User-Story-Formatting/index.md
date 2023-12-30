@@ -1,5 +1,3 @@
-# Lightweight ADR
-
 # Title
 User Story Format.
 
