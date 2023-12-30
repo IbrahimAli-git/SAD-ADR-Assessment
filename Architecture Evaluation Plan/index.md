@@ -8,8 +8,11 @@ Accepted
 I was tasked with evaluating the architecture I have created as part of the module. I had several valid evaluation techniques to choose from. These included:
 
 - Scenario-Based Architecture Analysis (SAAM)
+- SAAM founded on Complex Scenario (SAAMCS)
+- Extending SAAM by Integeration in the Domain (ESAAMI)
+- SAAM for Evolution and Reuseability (SAAMER)
 - Architecture Tradeoff Analysis Method (ATAM)
-- Proof of Concept
+- Proof of Concept/Prototype
 
 ## Decision
 I have chosen to use scenario based evaluation to evaluate the system.
