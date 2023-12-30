@@ -11,7 +11,7 @@ During the planning stage of the project choosing a suitable database was impera
 I decided to use a non-relational database for implementing my backend and specifically MongoDB.
 
 ## Rationale
-My decision to design using a MongoDB, a non-relational database, was based on many reasons. From them:
+My decision to design using MongoDB, a non-relational database, was based on many reasons. From them:
 
 1. MongoDB allows for quickly setting up a database and collections. This is because MongoDB creates a database collection based on the schema given and does not require the collection to be defined by the user.
 2. MongoDB integrates well with JavaScript frameworks including React.js and Express.js.
