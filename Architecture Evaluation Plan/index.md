@@ -15,7 +15,7 @@ I was tasked with evaluating the architecture I have created as part of the modu
 - Proof of Concept/Prototype
 
 ## Decision
-I have chosen to use scenario based evaluation to evaluate the system.
+I have chosen to use scenario based evaluation to evaluate the system using scenario based evaluation. I have also chosen to use the significant requirement walkthrough.
 
 ## Rationale
 I have made this decision for several reasons detailed below.
